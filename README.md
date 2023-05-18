@@ -23,7 +23,7 @@ Você usa o Jetpack Compose com o Kotlin para criar o layout do app e, em seguid
 </br>
 
 <p float="left" align="center">
-  <img alt="screenshot" width="100%" src="https://i.imgur.com/izTlTfR.png"/>
+  <img alt="screenshot" width="100%" src="https://i.imgur.com/95CqASK.png"/>
 </p>
 
 Esse aplicativo foi desenvolvido durante o curso gratuito da google.
